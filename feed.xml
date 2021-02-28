@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>MyFirstWebSite</title>
+    <link href="https://arizk76.github.io/MyFirstBlogWebSite/feed.xml" rel="self" />
+    <link href="https://arizk76.github.io/MyFirstBlogWebSite" />
+    <updated>2021-02-28T11:14:06+02:00</updated>
+    <author>
+        <name>Ahmed Rizk</name>
+    </author>
+    <id>https://arizk76.github.io/MyFirstBlogWebSite</id>
+
+    <entry>
+        <title>Free Open Source, Is it good idea?</title>
+        <author>
+            <name>Ahmed Rizk</name>
+        </author>
+        <link href="https://arizk76.github.io/MyFirstBlogWebSite/free-open-source-is-it-good-idea.html"/>
+        <id>https://arizk76.github.io/MyFirstBlogWebSite/free-open-source-is-it-good-idea.html</id>
+
+        <updated>2021-02-28T11:14:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Open Source VS Closed Source What is Open Source? Ahmed Rizk 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/open-source.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-xs.jpg 300w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-sm.jpg 480w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-md.jpg 768w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-lg.jpg 1024w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-xl.jpg 1360w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-2xl.jpg 1600w"  height="211" width="350" alt="" />
+      
+    </figure>
+
+    <h2 id="open-source-vs-closed-source">
+      Open Source VS Closed Source
+    </h2>
+
+    <figure class="blockquote">
+      <blockquote>What is Open Source?</blockquote>
+      <figcaption>Ahmed Rizk</figcaption>
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
