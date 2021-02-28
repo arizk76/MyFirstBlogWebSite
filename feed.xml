@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>MyFirstWebSite</title>
+    <title>MyFirstBlogWebSite</title>
     <link href="https://arizk76.github.io/MyFirstBlogWebSite/feed.xml" rel="self" />
     <link href="https://arizk76.github.io/MyFirstBlogWebSite" />
     <updated>2021-02-28T16:18:31+02:00</updated>
