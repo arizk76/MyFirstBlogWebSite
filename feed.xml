@@ -3,12 +3,36 @@
     <title>MyFirstWebSite</title>
     <link href="https://arizk76.github.io/MyFirstBlogWebSite/feed.xml" rel="self" />
     <link href="https://arizk76.github.io/MyFirstBlogWebSite" />
-    <updated>2021-02-28T11:14:06+02:00</updated>
+    <updated>2021-02-28T16:18:31+02:00</updated>
     <author>
         <name>Ahmed Rizk</name>
     </author>
     <id>https://arizk76.github.io/MyFirstBlogWebSite</id>
 
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Ahmed Rizk</name>
+        </author>
+        <link href="https://arizk76.github.io/MyFirstBlogWebSite/hello/"/>
+        <id>https://arizk76.github.io/MyFirstBlogWebSite/hello/</id>
+
+        <updated>2021-02-28T16:18:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/2/hands-with-application-icons.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/2/responsive/hands-with-application-icons-xs.jpg 300w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/2/responsive/hands-with-application-icons-sm.jpg 480w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/2/responsive/hands-with-application-icons-md.jpg 768w"  height="3744" width="5616" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Free Open Source, Is it good idea?</title>
         <author>
@@ -27,7 +51,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/open-source.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-xs.jpg 300w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-sm.jpg 480w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-md.jpg 768w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-lg.jpg 1024w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-xl.jpg 1360w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-2xl.jpg 1600w"  height="211" width="350" alt="" />
+      <img loading="lazy" src="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/open-source.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-xs.jpg 300w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-sm.jpg 480w ,https://arizk76.github.io/MyFirstBlogWebSite/media/posts/1/responsive/open-source-md.jpg 768w"  height="211" width="350" alt="" />
       
     </figure>
 
